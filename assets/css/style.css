@@ -1,5 +1,5 @@
 * {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 body {
@@ -21,6 +21,12 @@ body {
     padding: 25px 35px;
     border-radius: 10px;
     user-select: none;
+}
+
+#Titulo {
+    padding: 0;
+    margin: 0;   
+    color: #FFF;
 }
 
 #Display-area {
@@ -70,7 +76,7 @@ body {
 }
 
 .keypad-btns .fun_btn {
-    color: #ff8800;
+    color: #00ff55;
 }
 
 .num_btn:hover,.fun_btn:hover {
